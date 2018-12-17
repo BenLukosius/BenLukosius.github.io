@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Poem</title>
+        <meta charset="utf-8">
+		<style>
+			.pirmas {
+				background-color: purple;
+			}
+			#poem {
+				font-weight: bold;
+				font-size: 24px;
+			}
+		</style>
+    </head>
+    <body>
+		<h1 class="pirmas"> Hello world! </h1>
+			<p id="poem"> such wow,<br> Much amaze!<br> I do bow-wow,<br> Very craze! </p>
+		<h2 id="poem"> I like this very much </h2>
+    </body>
+</html>

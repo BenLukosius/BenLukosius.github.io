@@ -1,0 +1,48 @@
+
+			body {
+				background-color: rgb(255, 124, 74);
+			}
+			#parasas {
+				color: blue;
+			}
+			.pavadinimas {
+				font-size:40px;
+				text-decoration: underline;
+				text-align: center;
+			}
+			.aprasas {
+				color: black;
+				font-size: 18px;
+				font-weight: bold;
+			}
+			.hederis {
+				vertical-align: middle;
+				height: 100px;
+				width: 150px;
+			}
+			.langelis {
+				height: 30px;
+				font-size: 24px;
+			}
+			.foto {
+				width: 100%;
+			}
+			a {
+    color: black;
+            }
+			a:hover {
+    font-size: 150%;
+	color: purple;
+            }
+			table, td, th {
+   border: 2px solid black;
+			}
+			td {
+				text-align: center;
+			}
+			th {
+				color:white;
+			}
+			table {
+				margin:auto;
+			}
