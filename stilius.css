@@ -1,0 +1,125 @@
+body {
+margin: 0;
+}
+.visas {
+	border: 2px solid black;
+	width: 100%;
+	height: 100%;
+	float: center;
+	
+}
+.row {
+	width: 100%;
+	height: 400px;
+	float: top;
+	background-color: black;
+	margin: 0px;
+}
+.virsus{
+	width: 100%;
+	height: 10%;
+	float: top;
+	background-color: black;
+}
+.tekstas {
+	width: 24%;
+	height: 50%;
+	float: left;
+	font-size: 75%;
+	text-align: center;
+	margin-left: 5px;
+	color: black;
+	margin-bottom: 0px;
+}
+.antraste {
+	height: 99%;
+	width: 24%;
+	background-color: white;
+	float: left;	
+	border: 5px;
+	border-color: solid black;
+	margin: 1px;
+	margin-bottom: 0px;
+}
+.nuotrauka{
+	width: 100%;
+	height: 80%;
+	float: top;
+}
+.kaire {
+	width: 7%;
+	float: left;
+}
+.as {
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.smallrow {
+	height: 33%;
+	width: 100%;
+	float: top;
+}
+.smallrow2 {
+	height: 10%;
+	width: 100%;
+	float: top;
+}
+.knopke {
+	height: 100%;
+	width: 7%;
+	float: right;
+	background-color: blue;
+	text-align: center;
+}
+a {
+	color: white; 
+	background-color: transparent; 
+	text-decoration: none;
+	font-size: 175%;
+	margin: auto;
+	line-height: 100%;
+}
+.partext {
+	color: black; 
+	font-size: 200%;
+	text-align: center;
+	margin: 0px;
+	float: left;
+}
+.kaina {
+	height: 50%;
+	font-size: 175%;
+	text-align: center;
+	margin: 0px;
+	color: black;
+	margin-bottom: 0px;
+}
+.atgal {
+	width: 24%;
+	height: 10%;
+	float: top;
+	font-size: 75%;
+	text-align: center;
+	margin-left: 5px;
+	color: black;
+	margin-bottom: 0px;
+}
+.profilis {
+	width: 25%;
+	float: left;
+}
+.apiemane {
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.aprasymas {
+	width: 70%;
+	float: right;
+	font-size: 150%;
+	text-align: center;
+	margin-left: 5px;
+	color: white;
+	margin-bottom: 0px;
+}
